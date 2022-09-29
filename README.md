@@ -23,9 +23,17 @@ pip install tensorflowjs
 python export.py --weights yolov5s.pt --include tfjs
 ```
 
+## <div align="center">Deploy</div>
+
+Use YOLOv5.js [npm package](https://www.npmjs.com/package/yolov5js) to run models on your website.
+
 ## <div align="center">Contribute</div>
 
-Convert your [YOLOv5](https://github.com/ultralytics/yolov5) model to tensorflow.js, create [pull request](https://github.com/SkalskiP/yolov5js-zoo/pulls) and allow others to run your AI in the browser.
+Convert your YOLOv5 model to tensorflow.js, create [pull request](https://github.com/SkalskiP/yolov5js-zoo/pulls) and allow others to run your AI in the browser.
+
+## <div align="center">Kudos</div>
+
+Kudos to [ultralytics](https://ultralytics.com/) team as well as all other open-source contributors for building [YOLOv5](https://github.com/ultralytics/yolov5) project, and making it all possible.
 
 ## <div align="center">License</div>
 
